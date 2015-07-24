@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DigiLocker5</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="TagTabA">Govt. Issued</string>
+    <string name="TagTabB">Self Uploaded</string>
+    <string name="action_example">Search</string>
+</resources>
